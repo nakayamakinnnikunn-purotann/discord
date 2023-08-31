@@ -13,7 +13,13 @@
     --iconColor: #b9bbbe;
     --red: #dd4444;
 }
-
+html{
+     position: fixed;
+      left: 0px;
+      right: 0px;
+      top: 0px;
+      bottom:0px;
+}
 body {
     margin: 0;
     padding: 0;
