@@ -14,7 +14,8 @@
     --red: #dd4444;
 }
 html{
-
+width: 1080px;
+height: 695px;
 }
 body {
     margin: 0;
