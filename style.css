@@ -16,6 +16,8 @@
 html{
 width: 1080px;
 height: 695px;
+     overflow: hidden;
+
 }
 body {
     margin: 0;
