@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
-
+.side-bar1 {
+ background-color: #ffffff;
+    text-align: right;
+    width: 830px;
+    height: 695px;
+}
 :root {
     --dark-bg: #36393f;
     --dark-server-list: #202225;
@@ -29,7 +34,7 @@ body {
 
 .rootDiv {
     display: grid;
-    grid-template-columns: 0px 70px 300px;
+    grid-template-columns: 0px 70px 250px;
     grid-template-rows: auto;
 }
 
