@@ -36,6 +36,8 @@ body {
     display: grid;
     grid-template-columns: 0px 70px 300px;
     grid-template-rows: auto;
+ width: 1080px;
+height: 695px;
 }
 
 .servers {
