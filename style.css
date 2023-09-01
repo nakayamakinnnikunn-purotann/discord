@@ -34,7 +34,7 @@ body {
 
 .rootDiv {
     display: grid;
-    grid-template-columns: 0px 70px 250px;
+    grid-template-columns: 0px 70px 300px;
     grid-template-rows: auto;
 }
 
